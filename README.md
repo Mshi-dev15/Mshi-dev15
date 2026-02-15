@@ -59,7 +59,7 @@ print("Problem Solving")
 
 ## ✨ Personal Motto
 
-> “To learn more about Economic and Technology(Innovation).”
+> “To learn more about Economic and Technology (Innovation).”
 
 ---
 
