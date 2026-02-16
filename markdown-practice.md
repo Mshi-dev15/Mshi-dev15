@@ -1,4 +1,4 @@
-## My Learning Goals.
+## MY LEARNING GOALS.
 ### This Semester.
 
 ---
@@ -10,17 +10,17 @@ My **goal** this *semester* is to build a strong foundation ,to staying consiste
 
 ### Exercise 3- Links
 
--[My github profile](https://github.com/Mshi-dev15)
--[Freecodecamp](https://www.freecodecamp.org)
+- [My github profile](https://github.com/Mshi-dev15)
+- [Freecodecamp](https://www.freecodecamp.org)
 
 ---
 
 ### Exercise 4- lists
 
 ### Unordered list (Things i want to learn)
--Python
--Gits and Version control
--Java script
+- Python
+- Gits and Version control
+- Java script
 
 ---
 
