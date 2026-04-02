@@ -2,7 +2,7 @@
   <img src="https://github.com/Mshi-dev15/Mshi-dev15/blob/main/FAITH%20MSHIKI.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Learning+Python;Future+System+Architect;Building+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Learning+javascript;Future+System+Architect;Building+Step+by+Step" />
 </p>
 
 <h1 align="center">Hi 👋 I'm faith Mshiki</h1>
