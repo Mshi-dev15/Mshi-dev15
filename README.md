@@ -13,7 +13,7 @@
 ## 🌿 About Me
 
 - 🎓 Studying Supply Chain Management  
-- 💻 Currently learning **Python**
+- 💻 Currently learning **Javascript**
 - 🌍 Based in Kenya  
 - 🧠 Curious about systems, economics & technology  
 - 🚀 Starting my coding journey from zero  
@@ -22,8 +22,8 @@
 
 ## 📚 Currently Learning
 
-```python
-print("Python Basics")
+```javascript
+print("javascript Basics")
 print("Git & GitHub")
 print("Problem Solving")
 ```
