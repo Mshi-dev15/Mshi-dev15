@@ -2,7 +2,7 @@
   <img src="https://github.com/Mshi-dev15/Mshi-dev15/blob/main/FAITH%20MSHIKI.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Learning+javascript;Future+System+Architect;Building+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Learning+Javascript;Future+System+Architect;Building+Step+by+Step" />
 </p>
 
 <h1 align="center">Hi 👋 I'm faith Mshiki</h1>
@@ -23,9 +23,9 @@
 ## 📚 Currently Learning
 
 ```javascript
-print("javascript Basics")
-print("Git & GitHub")
-print("Problem Solving")
+console.log("Javascript Basics")
+console.log("Git & GitHub")
+console.log("Problem Solving")
 ```
 
 ---
@@ -33,7 +33,7 @@ print("Problem Solving")
 ## 🛠 Tech Stack (Growing…)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
 </p>
