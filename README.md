@@ -24,25 +24,32 @@
 
 ## 📚 Currently Learning
 
-Artificial Intelligence 
-Machine Learning 
-Data Analysis 
-Advanced Software Development
+- Artificial Intelligence 
+- Machine Learning 
+- Data Analysis 
+- Advanced Software Development
 
 ---
 
 ## 🛠 Tech Stack (Growing…)
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow" />
-</p>
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" /></td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" /></td>
+    <td><img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" /></td>
+  </tr>
+</table>
 
 ---
 
