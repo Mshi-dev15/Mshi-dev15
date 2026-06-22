@@ -32,7 +32,7 @@
 ---
 
 ## 🛠 Tech Stack (Growing…)
-
+<p>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-black?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
