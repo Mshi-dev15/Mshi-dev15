@@ -2,7 +2,7 @@
   <img src="https://github.com/Mshi-dev15/Mshi-dev15/blob/main/FAITH%20MSHIKI.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Learning+Javascript;Future+System+Architect;Building+Step+by+Step" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Learner;Building+Step+by+Step" />
 </p>
 
 <h1 align="center">Hi 👋 I'm faith Mshiki</h1>
@@ -12,41 +12,55 @@
 
 ## 🌿 About Me
 
-- 🎓 Studying Supply Chain Management  
-- 💻 Currently learning **Javascript**
-- 🌍 Based in Kenya  
-- 🧠 Curious about systems, economics & technology  
-- 🚀 Starting my coding journey from zero  
+- 🎓 Studying Supply Chain Management
+- 💻 Experienced with JavaScript, frontend and backend development
+- 🤖 Currently learning Artificial Intelligence and Machine Learning
+- 🌍 Based in Kenya
+- 🧠 Interested in technology, economics, systems thinking, and innovation
+- 🚀 Building projects that combine technology with real-world problem solving
+ 
 
 ---
 
 ## 📚 Currently Learning
 
-```javascript
-console.log("Javascript Basics")
-console.log("Git & GitHub")
-console.log("Problem Solving")
-```
+Artificial Intelligence 
+Machine Learning 
+Data Analysis 
+Advanced Software Development
 
 ---
 
 ## 🛠 Tech Stack (Growing…)
 
 <p>
-  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow" />
 </p>
+
+---
+
+🚀 Current Projects
+- ClipScout — A movie discovery platform built around short-form video clips
+- AI Concepts Repository — A collaborative guide covering machine learning, neural networks, and AI fundamentals
+- BridgeKe - a group work project where youths can find gigs and opportunities easily in kenya
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build my first real-world project  
-- Combine tech + economics  
-- Master problem solving  
-- Become financially independent through skills  
-
+- Build intelligent software powered by AI
+- Strengthen my full-stack development skills
+- Learn machine learning and data science
+- Combine technology, economics, and innovation
+- Contribute to impactful real-world projects
+  
 ---
 
 ## 📊 GitHub Stats
@@ -59,7 +73,7 @@ console.log("Problem Solving")
 
 ## ✨ Personal Motto
 
-> “To learn more about Economic and Technology (Innovation).”
+> "Building knowledge today to create better systems tomorrow."
 
 ---
 
