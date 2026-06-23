@@ -4,20 +4,20 @@
 
 ---
 
-## Exercise 2 - Text Formatting
+### Exercise 2 - Text Formatting
 
 My **goal** this *semester* is to build a strong foundation in programming, stay consistent, and practice `Python` and AI concepts regularly.
 
 ---
 
-## Exercise 3 - Links
+### Exercise 3 - Links
 
 - [My GitHub Profile](https://github.com/Mshi-dev15)
 - [freeCodeCamp](https://www.freecodecamp.org)
 
 ---
 
-## Exercise 4 - Lists
+### Exercise 4 - Lists
 
 ### Unordered List (Things I Want to Learn)
 
@@ -33,7 +33,7 @@ My **goal** this *semester* is to build a strong foundation in programming, stay
 
 ---
 
-## Exercise 5 - Table
+### Exercise 5 - Table
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -42,7 +42,7 @@ My **goal** this *semester* is to build a strong foundation in programming, stay
 
 ---
 
-## Exercise 6 - Task List
+### Exercise 6 - Task List
 
 - [x] Create GitHub account
 - [x] Create Profile README
@@ -52,7 +52,7 @@ My **goal** this *semester* is to build a strong foundation in programming, stay
 
 ---
 
-## Exercise 7 - Code Block
+### Exercise 7 - Code Block
 
 ```python
 print("Hello, World!")
@@ -60,17 +60,17 @@ print("Hello, World!")
 
 ---
 
-## Exercise 8 - Blockquote
+### Exercise 8 - Blockquote
 
 > Consistency beats motivation. Show up even when you don't feel ready.
 
 ---
 
-# About Me
+## About Me
 
 Hi, I'm **Faith Mshiki**, a Supply Chain Management student exploring the world of technology, AI, and software development.
 
-## Current Focus
+### Current Focus
 
 - Learning **Artificial Intelligence**
 - Practicing `Python`
