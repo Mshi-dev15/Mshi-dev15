@@ -1,72 +1,86 @@
-## MY LEARNING GOALS.
-### This Semester.
+## My Learning Goals
+
+### This Semester
 
 ---
 
-### Exercise 2- Text formating
-My **goal** this *semester* is to build a strong foundation ,to staying consistence and practicing `python `everyday.
+## Exercise 2 - Text Formatting
+
+My **goal** this *semester* is to build a strong foundation in programming, stay consistent, and practice `Python` and AI concepts regularly.
 
 ---
 
-### Exercise 3- Links
+## Exercise 3 - Links
 
-- [My github profile](https://github.com/Mshi-dev15)
-- [Freecodecamp](https://www.freecodecamp.org)
-
----
-
-### Exercise 4- lists
-
-### Unordered list (Things i want to learn)
-- Python
-- Gits and Version control
-- Java script
+- [My GitHub Profile](https://github.com/Mshi-dev15)
+- [freeCodeCamp](https://www.freecodecamp.org)
 
 ---
 
-### Ordered List (Steps to make a commit)
-1. stage your changes
-2. creat a commit
-3. push to github
+## Exercise 4 - Lists
+
+### Unordered List (Things I Want to Learn)
+
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+
+### Ordered List (Steps to Make a Commit)
+
+1. Stage your changes using `git add .`
+2. Create a commit using `git commit -m "message"`
+3. Push to GitHub using `git push`
 
 ---
 
-### Exercise 5- Tables
+## Exercise 5 - Table
 
-|Tools           |        Purpose              |     Link            |
-|--------------- |---------------------------  | ------------------  |
-|Github          | store and manage code       | https://github.com  |
-|Python          |programming labguage         | https://python.org  |
-
----
-
-### Exercise 6- Task list
-
-- [x] Creat github account
-- [x] Creat profile README
-- [ ] Complete python basics
-- [ ] Push first project
+| Tool | Purpose | Link |
+|------|---------|------|
+| GitHub | Store and manage code | https://github.com |
+| Python | Programming language | https://python.org |
 
 ---
 
-### Exercise 7- Code block
+## Exercise 6 - Task List
 
-``` python
-print("Hello, World!)
+- [x] Create GitHub account
+- [x] Create Profile README
+- [x] Learn Git and GitHub basics
+- [ ] Complete Python fundamentals
+- [ ] Build an AI project
+
+---
+
+## Exercise 7 - Code Block
+
+```python
+print("Hello, World!")
 ```
----
-
-### Exercise 8- Blockquote
-
-> consistency beat motivation. Show up even when you don't feel ready
 
 ---
 
-## **About Me**
+## Exercise 8 - Blockquote
 
-I am passionate about learning programming ~~step by step~~ and my main goal this semester is to master `python`, improve problem solving and document everything in githuh
-### Current focus
-- Building discpline
-- Practice daily
-- Completing small project
-> Growth over comfort 
+> Consistency beats motivation. Show up even when you don't feel ready.
+
+---
+
+# About Me
+
+Hi, I'm **Faith Mshiki**, a Supply Chain Management student exploring the world of technology, AI, and software development.
+
+## Current Focus
+
+- Learning **Artificial Intelligence**
+- Practicing `Python`
+- Building small projects
+- Improving problem-solving skills
+
+### Useful Links
+
+- [My GitHub Profile](https://github.com/Mshi-dev15)
+
+> Growth over comfort.
+
+~~Giving up is not an option.~~
