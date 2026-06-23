@@ -19,13 +19,13 @@ My **goal** this *semester* is to build a strong foundation in programming, stay
 
 ### Exercise 4 - Lists
 
-### Unordered List (Things I Want to Learn)
+#### Unordered List (Things I Want to Learn)
 
 - Artificial Intelligence
 - Machine Learning
 - Full-Stack Development
 
-### Ordered List (Steps to Make a Commit)
+#### Ordered List (Steps to Make a Commit)
 
 1. Stage your changes using `git add .`
 2. Create a commit using `git commit -m "message"`
