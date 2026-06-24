@@ -52,7 +52,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="30" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" height="30" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>
 </div>
@@ -66,7 +66,7 @@
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Vercel" height="30" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/render.png" alt="Render" height="50" /></a>
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" height="30" /></a>
 </div>
 
 </td></tr></table>
