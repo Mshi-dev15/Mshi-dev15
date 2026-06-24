@@ -72,7 +72,7 @@
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="30" /></a>
 <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" height="30" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="30" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="25" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="30" /></a>
 </div>
 
