@@ -33,7 +33,7 @@
 
 ## 🛠 Tech Stack 
 
-<table><tr><td valign="top" width="33%">
+<table style="width:100%; min-width:600px;"><tr><td valign="top" width="33%">
 
 ### Frontend
 <div align="center">
