@@ -1,6 +1,7 @@
 ## My Learning Goals
 
 ### This Semester
+Focusing on AI, ML, and full-stack development
 
 ---
 
