@@ -71,9 +71,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="30" /></a>
 <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" height="30" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-icon.svg" alt="VS Code" height="30" /></a>
-<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/npm-icon-svgrepo-com.svg" alt="NPM" height="30" /></a>
-
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="30" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" height="30" /></a>
 </td></tr></table>
 
 ---
