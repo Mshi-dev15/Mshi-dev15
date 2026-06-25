@@ -30,9 +30,9 @@
 - Backend Architecture & Database Design
 
 ---
-<br/>
-## 🛠 Tech Stack 
 
+## 🛠 Tech Stack 
+<br/>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -79,6 +79,7 @@
 
 </td></tr></table>
 <br/>
+
 ---
 
 ## 🚀 Current Projects
