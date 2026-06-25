@@ -32,7 +32,7 @@
 ---
 
 ## 🛠 Tech Stack 
-<br/>
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -50,6 +50,7 @@
 
 </td><td valign="top" width="33%">
 
+
 ### Backend
 <div align="center">
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a>
@@ -65,6 +66,7 @@
 
 </td><td valign="top" width="33%">
 
+
 ### DevOps
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>
@@ -78,7 +80,6 @@
 </div>
 
 </td></tr></table>
-<br/>
 
 ---
 
